@@ -26,7 +26,3 @@ What I've contributed is reorganizing, trimming and add some comments on them.
 * The following algorithm won't be covered in this tutorial:
     * Number-theory (e.g., GCD)
     * Backtracking
-
-# Useful links (Korean)
-* https://www.codetree.ai/training-field/frequent-problems/company/samsung/problems?page=1&pageSize=20
-* https://bloodstrawberry.tistory.com/47
